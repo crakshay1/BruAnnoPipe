@@ -448,12 +448,12 @@ def validate_proteins(file, directory, suffix):
     driver.switch_to.window(driver.window_handles[0]) 
 
 # Please Blast I need this... My protein is kinda homeless
-"""
+
 for file in os.listdir("augustus_pred/predicted_mRNA"):
     validate_mRNA(file, "augustus_pred", "_ap")
 for file in os.listdir("augustus_pred_masked/predicted_mRNA"):
     validate_mRNA(file, "augustus_pred", "_apm")
-"""
+
 for file in os.listdir("augustus_pred/predicted_proteins"):
     validate_proteins(file, "augustus_pred", "_ap")
 for file in os.listdir("augustus_pred_masked/predicted_proteins"):
