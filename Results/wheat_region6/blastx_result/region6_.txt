@@ -1,0 +1,8 @@
+Status: 500 Server Error
+Content-Type: text/plain
+
+ERROR:  500 Server Error 
+
+CCgiResponse::WriteHeader() -- called more than once
+
+
