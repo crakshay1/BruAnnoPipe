@@ -1,0 +1,26 @@
+region7	FGENESH	gene	1161	3676	.	+	.	ID=gene1
+region7	FGENESH	CDS	1161	1346	13.98	+	0	ID=gene1.cds1;Parent=gene1;Type=CDSi;ORF=1161-1346;Length=186
+region7	FGENESH	CDS	1487	2356	283.42	+	0	ID=gene1.cds2;Parent=gene1;Type=CDSi;ORF=1487-2356;Length=870
+region7	FGENESH	CDS	2492	3676	366.34	+	0	ID=gene1.cds3;Parent=gene1;Type=CDSl;ORF=2492-3676;Length=1185
+region7	FGENESH	polyA_site	4103	4103	-3.01	+	.	ID=gene1.PolA
+
+region7	FGENESH	polyA_site	4117	4117	-6.61	-	.	ID=gene2.PolA
+region7	FGENESH	gene	4137	4568	.	-	.	ID=gene2
+region7	FGENESH	CDS	4137	4568	61.58	-	0	ID=gene2.cds1;Parent=gene2;Type=CDSo;ORF=4137-4568;Length=432
+region7	FGENESH	TSS	4620	4620	-13.31	-	.	ID=gene2.TSS
+
+region7	FGENESH	TSS	4660	4660	-11.21	+	.	ID=gene3.TSS
+region7	FGENESH	gene	4782	7520	.	+	.	ID=gene3
+region7	FGENESH	CDS	4782	5038	32.46	+	0	ID=gene3.cds1;Parent=gene3;Type=CDSf;ORF=4782-5036;Length=255
+region7	FGENESH	CDS	5143	5361	30.83	+	0	ID=gene3.cds2;Parent=gene3;Type=CDSi;ORF=5144-5359;Length=216
+region7	FGENESH	CDS	5610	5637	-9.59	+	0	ID=gene3.cds3;Parent=gene3;Type=CDSi;ORF=5611-5637;Length=27
+region7	FGENESH	CDS	5788	6185	59.90	+	0	ID=gene3.cds4;Parent=gene3;Type=CDSi;ORF=5788-6183;Length=396
+region7	FGENESH	CDS	6727	6809	-7.70	+	0	ID=gene3.cds5;Parent=gene3;Type=CDSi;ORF=6728-6808;Length=81
+region7	FGENESH	CDS	7159	7520	75.00	+	0	ID=gene3.cds6;Parent=gene3;Type=CDSl;ORF=7161-7520;Length=360
+region7	FGENESH	polyA_site	8608	8608	2.19	+	.	ID=gene3.PolA
+
+region7	FGENESH	TSS	13621	13621	1.09	+	.	ID=gene4.TSS
+region7	FGENESH	gene	13793	14096	.	+	.	ID=gene4
+region7	FGENESH	CDS	13793	13898	-1.27	+	0	ID=gene4.cds1;Parent=gene4;Type=CDSf;ORF=13793-13897;Length=105
+region7	FGENESH	CDS	14044	14096	4.58	+	0	ID=gene4.cds2;Parent=gene4;Type=CDSl;ORF=14046-14096;Length=51
+region7	FGENESH	polyA_site	14368	14368	2.19	+	.	ID=gene4.PolA
