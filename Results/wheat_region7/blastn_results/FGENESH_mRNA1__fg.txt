@@ -1,0 +1,27 @@
+RID: PFCB58RU014	
+Job Title: FGENESH:\[mRNA\] 2 3 exon (s) 11411 - 12486 				
+Program: BLASTN 
+Database: tsa (24 databases) 
+Query #1: FGENESH:\[mRNA\] 2 3 exon (s) 11411 - 12486 834 bp, chain + Query ID: lcl|Query_6177021 Length: 834
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+TSA: Triticum aestivum scaffold122295_size674 transcribed RNA...                                  0          593    593   64%   2e-166 87.09  674        GFFI01122270.1   
+TSA: Triticum aestivum scaffold102255_size809 transcribed RNA...                                  0          564    564   61%   2e-157 86.67  809        GFFI01102237.1   
+TSA: Triticum aestivum scaffold89973_size911 transcribed RNA...                                   0          556    556   55%   3e-155 88.98  911        GFFI01089959.1   
+Triticum aestivum GG_33967_c0_g1_i1                                                               0          405    405   35%   1e-109 91.78  368        GKWO01124597.1   
+TSA: Triticum aestivum, transcript: NODE_141749_length_369                                        0          254    254   19%   4e-64  96.15  369        HCED01141749.1   
+TSA: Triticum aestivum, transcript: NODE_141749_length_369                                        0          254    254   19%   4e-64  96.15  369        HCEC01141749.1   
+Triticum aestivum GG_92258_c0_g1_i2                                                               0          254    603   42%   4e-64  96.15  2020       GKWO01331089.1   
+Triticum aestivum GG_92258_c0_g1_i1                                                               0          254    603   42%   4e-64  96.15  1933       GKWO01331088.1   
+TSA: Triticum aestivum tid185308_c0_seq1 transcribed RNA sequence                                 0          233    233   23%   5e-58  89.01  234        GEWU01338768.1   
+TSA: Triticum aestivum cultivar Bobwhite isotig11758.flagleaf...                                  0          231    231   16%   2e-57  97.08  399        HP620967.1       
+TSA: Triticum aestivum cultivar Bobwhite isotig11756.flagleaf...                                  0          231    231   16%   2e-57  97.08  402        HP620965.1       
+TSA: Triticum aestivum tid112930_c0_seq4 transcribed RNA sequence                                 0          231    354   25%   2e-57  97.08  1169       GEWU01174690.1   
+TSA: Triticum aestivum tid112930_c0_seq1 transcribed RNA sequence                                 0          231    354   25%   2e-57  97.08  694        GEWU01174687.1   
+TSA: Triticum aestivum cultivar Bobwhite isotig11757.flagleaf...                                  0          230    230   16%   7e-57  98.46  298        HP620966.1       
+TSA: Triticum aestivum cultivar Bobwhite isotig11755.flagleaf...                                  0          230    230   16%   7e-57  98.46  301        HP620964.1       
+Triticum aestivum GG_122906_c0_g1_i2                                                              0          228    228   24%   3e-56  87.62  3365       GKWO01441379.1   
+Triticum aestivum GG_52879_c21_g1_i1                                                              0          228    228   22%   3e-56  88.83  441        GKWO01192222.1   
+Triticum aestivum gene.294229.0.0                                                                 0          228    228   24%   3e-56  87.62  3697       GILY01042030.1  
