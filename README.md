@@ -1,6 +1,6 @@
 # BruAnnoPipe
 
-**BruAnnoPipe** is an automated bioinformatics pipeline designed for the comprehensive annotation of genomic sequences. It integrates local command-line tools with web-based prediction and validation services to identify transposable elements, predict gene structures, and validate protein sequences.  `BruAnnoPipe.ipynb` is a notebook designed to be used as if you were in a laboratory.   
+**BruAnnoPipe** is an automated bioinformatics pipeline designed for the comprehensive annotation of genomic sequences. It integrates local command-line tools with web-based prediction and validation services to identify transposable elements, predict gene structures, and validate protein sequences.  `BruAnno.ipynb` is a notebook designed to be used as if you were in a laboratory.   
 
 ⚠️ Special thanks to **Georgy ZAOUK** who modified the pipeline to automatically generate the .gff3 files.
 
